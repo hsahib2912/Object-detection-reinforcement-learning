@@ -1,5 +1,5 @@
 References : 
-1) https://fse.studenttheses.ub.rug.nl/18139/1/AI_BA_2018_FlorisvanBeers.pdf
-2) https://arxiv.org/pdf/2008.08005.pdf
-3) https://supervise.ly/explore/plugins/confusion-matrix-75279/overview
-4) https://github.com/ultralytics/yolov5
+1) (https://fse.studenttheses.ub.rug.nl/18139/1/AI_BA_2018_FlorisvanBeers.pdf)
+2) (https://arxiv.org/pdf/2008.08005.pdf)
+3) (https://supervise.ly/explore/plugins/confusion-matrix-75279/overview)
+4) (https://github.com/ultralytics/yolov5)
