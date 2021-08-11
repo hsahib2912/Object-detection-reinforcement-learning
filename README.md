@@ -17,3 +17,4 @@ Following attributes are used for reinforcement learning:<br/>
 * Environment : Bounding box coordinates.<br/>
 * Action : Agent can alter the coordinates of the bounding box.<br/>
 * Reward : +1 if IOU > 0.5; else -1<br/>
+* State : Output of YOLOV5 model ([x_center, y_center, width, height])
